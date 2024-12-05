@@ -63,7 +63,7 @@
 - Discord:  [Send message](https://telegramprime.net/discord-contact)
 - Element:  [Send message](https://telegramprime.net/element-contact)
 
-* or via the Contact Form on our Telegram PRIME website:
+* or via the Contact Form on our websites:
 - Wеb: https://telegramprime.net/ - EN Version
 - Wеb: https://telegramprime.com/ - RU Version
 
