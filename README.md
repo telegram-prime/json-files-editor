@@ -35,7 +35,7 @@
   - Integrated error handling with detailed messages to notify the user of any issues during the modification process.
   - Uses message popups to inform users about the status of operations, such as backups, JSON edits, or license issues.
 10. Updates & Support
-  - Free updates to further version are inluded.
+  - Free updates to further version are included.
   - Free online support from team.
 
 
